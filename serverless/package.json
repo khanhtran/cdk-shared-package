@@ -1,10 +1,6 @@
 {
   "name": "serverless-infrastructure",
   "main": "lib/index.js",
-  "files": [
-    "lib/*.js",
-    "src"
-  ],
   "types": "lib/index.d.ts",
   "version": "1.0.1",
   "scripts": {
